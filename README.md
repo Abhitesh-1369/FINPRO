@@ -17,16 +17,6 @@ FinPro originated as my own passion project in 2020. At that point, I'd already 
 
 FinPro is my attempt to solve all of these issues. It has helped me manage my finances for a while now and I hope it can be useful for you as well.
 
-<p align="center">
-  <img src="/screenshots/1.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/2.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/3.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/4.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/5.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/6.PNG" alt="FinPro" width="400">
-  <img src="/screenshots/7.PNG" alt="FinPro" width="400">
-</p>
-
 ## ✨ Features
 
 Here are the main features of FinPro:
