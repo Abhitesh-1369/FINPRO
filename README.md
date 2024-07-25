@@ -4,8 +4,8 @@
   - [Features](#features)
   - [Roadmap](#roadmap)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Dependencies](#dependencies)
+
+
 
 # ⚡ About FinPro
 
@@ -46,11 +46,7 @@ Here's some of the features currently in development or planned for the near fut
 
 [Here](https://github.com/Abhitesh1369/finpro/wiki/Project-Setup#initial-setup) you can find the full documentation on the first steps to get started.
 
-# 🙋‍♂️ Contributing
 
-This was never meant to be anything other than a little passion project of mine. However, if you're interested in taking this project and make it your own or add something to it, you're more than welcome to do so. Just get in touch :)
-
-# 📦 Dependencies
 
 ## Web
 
