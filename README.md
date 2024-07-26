@@ -3,14 +3,13 @@
 - [About FinPro](#about-finpro)
   - [Features](#features)
   - [Roadmap](#roadmap)
-- [Getting Started](#getting-started)
-
 
 
 # ⚡ About FinPro
 
 FinPro is a personal finance manager system that helps users track their income, expenses, and savings goals. The system should allow users to add, view, update,
 and delete financial transactions, categorize them, and generate reports to understand their spending patterns.
+- you can run this application by using VSCode website or using Xampp by downloading the source files.
 
 
 ## ✨ Features
@@ -36,7 +35,5 @@ Here's some of the features currently in development or planned for the near fut
 - **Better Stats** - Add more complex & interesting stats
 - & much more...
 
-# 🔰 Getting Started
 
-[Here](https://github.com/Abhitesh1369/finpro/wiki/Project-Setup#initial-setup) you can find the full documentation on the first steps to get started.
 
